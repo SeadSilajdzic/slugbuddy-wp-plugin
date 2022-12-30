@@ -2,18 +2,11 @@
 
 /**
  * Plugin Name:       SlugBuddy
- * Plugin URI:        https://example.com/plugins/the-basics/
  * Description:       Plugin is fixing the issue where the media is older than the post and has the same slug.
  * Text Domain:       slugbuddy
  * Domain Path:       /slugbuddy
- * Version:           1.0.0
- * Requires at least: 5.2
- * Requires PHP:      7.2
+ * Version:           1.0
  * Author:            Sead Silajdzic
- * Author URI:        https://author.example.com/
- * License:           GPL v2 or later
- * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
- * Update URI:        https://example.com/my-plugin/
  */
 
  /*
@@ -23,7 +16,8 @@
  * 
  * 
  *
- * TODO:     MAKE CHECK IF THE PUBLISH ON POST RELATED PAGE IS CLICKED AN NOWHERE ELSE
+ * TODO:    MAKE CHECK IF THE PUBLISH ON POST RELATED PAGE IS CLICKED AN NOWHERE ELSE
+ *          MAKE SETTINGS PAGE FOR THE PLUGIN   
  * 
 */
 
